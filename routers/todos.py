@@ -36,5 +36,6 @@ def create_todo_form(
 # Delete todo
 @router.post("/todos/{todo_id}/delete")
 def delete(todo_id: int, db: Session = Depends(get_db)):
+    
     delete_todo(db, todo_id)
     return RedirectResponse("/", status_code=303)
