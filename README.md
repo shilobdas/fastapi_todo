@@ -46,18 +46,5 @@ cd fastapi-todo
 
 
 
-This will display:
-
-- A **clean project tree** like you wanted  
-- Installation instructions  
-- Usage instructions  
-- Dependencies  
-- Optional license section  
-
----
-
-If you want, I can also make a **fancier version with GitHub badges** (Python version, license, build status) to make your repo look more professional.  
-
-Do you want me to do that too?
 
 
