@@ -1,15 +1,6 @@
 ﻿
 # Project Structure
 
-
-
----
-
-### 3️⃣ Optional: Make it **more GitHub-friendly**
-- You can use emojis for better readability, like `📄` for files and `📂` for folders.
-- Example:
-
-```markdown
 📂 fastapi-todo/
 ├─ 📄 main.py
 ├─ 📄 database.py
@@ -43,6 +34,7 @@
 ```bash
 git clone https://github.com/yourusername/fastapi-todo.git
 cd fastapi-todo
+
 
 
 
